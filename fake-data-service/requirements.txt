@@ -1,0 +1,4 @@
+Faker
+fastapi
+uvicorn
+dynaconf
